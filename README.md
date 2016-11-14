@@ -22,6 +22,7 @@ R script run_analysis.R does the following.
 R script run_analysis.R will automatically install dependencies if necessary.
 
 Package "data.table" is used to aggregate data
+
 Package "reshape2" is used to aggregate data using functions melt and dcast
 
 
